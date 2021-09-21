@@ -44,7 +44,7 @@ BootMenu_DisplayAndReturnDriveInDLRomBootClearCF:
 	; Clear Boot Menu from screen
 	mov		ax, ' ' | (MONO_NORMAL<<8)
 	CALL_DISPLAY_LIBRARY	ClearScreenWithCharInALandAttrInAH
-
+	
 	; fall through to BootMenu_GetDriveToDXforMenuitemInCX
 
 ;--------------------------------------------------------------------
