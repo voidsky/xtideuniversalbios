@@ -98,10 +98,13 @@ HEADERS += $(LIBS)
 #################################################################
 # Assembler preprocessor defines.                               #
 #################################################################
-DEFINES_COMMON = MODULE_STRINGS_COMPRESSED MODULE_HOTKEYS MODULE_8BIT_IDE MODULE_SERIAL MODULE_SERIAL_FLOPPY MODULE_EBIOS MODULE_FEATURE_SETS RESERVE_DIAGNOSTIC_CYLINDER
+DEFINES_COMMON = MODULE_STRINGS_COMPRESSED MODULE_HOTKEYS MODULE_8BIT_IDE 
+
+#DEFINES_COMMON = MODULE_STRINGS_COMPRESSED MODULE_HOTKEYS MODULE_8BIT_IDE MODULE_SERIAL MODULE_SERIAL_FLOPPY MODULE_EBIOS MODULE_FEATURE_SETS RESERVE_DIAGNOSTIC_CYLINDER
 DEFINES_COMMON_LARGE = MODULE_BOOT_MENU MODULE_8BIT_IDE_ADVANCED
 
-DEFINES_XT = $(DEFINES_COMMON) ELIMINATE_CGA_SNOW MODULE_8BIT_IDE_ADVANCED COPY_13H_HANDLER_TO_40H
+DEFINES_XT = $(DEFINES_COMMON) MODULE_8BIT_IDE_ADVANCED COPY_13H_HANDLER_TO_40H MODULE_BOOT_MENU
+#DEFINES_XT = $(DEFINES_COMMON) ELIMINATE_CGA_SNOW MODULE_8BIT_IDE_ADVANCED COPY_13H_HANDLER_TO_40H MODULE_BOOT_MENU
 DEFINES_XTPLUS = $(DEFINES_COMMON) $(DEFINES_XT) USE_186
 DEFINES_AT = $(DEFINES_COMMON) USE_AT USE_286 MODULE_IRQ MODULE_ADVANCED_ATA
 
@@ -159,6 +162,9 @@ AS = nasm
 # RM = -del /Q
 RM = rm
 
+#
+AL = fallocate -l
+
 #############################
 # Compiler and linker flags #
 #############################
@@ -185,34 +191,42 @@ large: xt_large xtplus_large at_large
 
 at:
 	@$(AS) "$(SRC_ASM)" $(ASFLAGS) $(DEFS_AT) -l"$(TARGET)_at.lst" -o"$(TARGET)_at.bin"
+	$(AL) $(BIOS_SIZE) $(TARGET)_at.bin
 	@echo * Small AT version "$(TARGET)_at.bin" built.
 
 at_large:
 	@$(AS) "$(SRC_ASM)" $(ASFLAGS) $(DEFS_AT_LARGE) -l"$(TARGET)_atl.lst" -o"$(TARGET)_atl.bin"
+	$(AL) $(BIOS_SIZE_LARGE) $(TARGET)_atl.bin
 	@echo *Large AT version "$(TARGET)_atl.bin" built.
 
 xtplus:
 	@$(AS) "$(SRC_ASM)" $(ASFLAGS) $(DEFS_XTPLUS) -l"$(TARGET)_xtp.lst" -o"$(TARGET)_xtp.bin"
+	$(AL) $(BIOS_SIZE) $(TARGET)_xtp.bin	
 	@echo * Small XT Plus version "$(TARGET)_xtp.bin" built.
 
 xtplus_large:
 	@$(AS) "$(SRC_ASM)" $(ASFLAGS) $(DEFS_XTPLUS_LARGE) -l"$(TARGET)_xtpl.lst" -o"$(TARGET)_xtpl.bin"
+	$(AL) $(BIOS_SIZE_LARGE) $(TARGET)_xtpl.bin	
 	@echo *Large XT Plus version "$(TARGET)_xtpl.bin" built.
 
 xt:
 	@$(AS) "$(SRC_ASM)" $(ASFLAGS) $(DEFS_XT) -l"$(TARGET)_xt.lst" -o"$(TARGET)_xt.bin"
+	$(AL) $(BIOS_SIZE) $(TARGET)_xt.bin
 	@echo * Small XT version "$(TARGET)_xt.bin" built.
 
 xt_large:
 	@$(AS) "$(SRC_ASM)" $(ASFLAGS) $(DEFS_XT_LARGE) -l"$(TARGET)_xtl.lst" -o"$(TARGET)_xtl.bin"
+	$(AL) $(BIOS_SIZE_LARGE) $(TARGET)_xtl.bin		
 	@echo *Large XT version "$(TARGET)_xtl.bin" built.
 
 xt_tiny:
 	@$(AS) "$(SRC_ASM)" $(ASFLAGS) $(DEFS_XT_TINY) -l"$(TARGET)_tiny.lst" -o"$(TARGET)_tiny.bin"
+	$(AL) $(BIOS_SIZE) $(TARGET)_tiny.bin	
 	@echo * Tiny XT version "$(TARGET)_tiny.bin" built.
 
 386_8k:
 	@$(AS) "$(SRC_ASM)" $(ASFLAGS) $(DEFS_386_8K) -l"$(TARGET)_386.lst" -o"$(TARGET)_386.bin"
+	$(AL) $(BIOS_SIZE) $(TARGET)_386.bin	
 	@echo * Small 386 version "$(TARGET)_386.bin" built.
 
 strings: src/Strings.asm
