@@ -45,16 +45,6 @@ BootMenu_DisplayAndReturnDriveInDLRomBootClearCF:
 	mov		ax, ' ' | (MONO_NORMAL<<8)
 	CALL_DISPLAY_LIBRARY	ClearScreenWithCharInALandAttrInAH
 	
-	xor		ax,ax
-	CALL_DISPLAY_LIBRARY	SetCursorCoordinatesFromAX
-	mov		al,'X'
-	CALL_DISPLAY_LIBRARY	DisplayPrint_CharacterFromAL
-
-	; Clear Boot Menu from screen
-	mov		ax, ' ' | (MONO_NORMAL<<8)
-	CALL_DISPLAY_LIBRARY	ClearScreenWithCharInALandAttrInAH
-	
-
 	; fall through to BootMenu_GetDriveToDXforMenuitemInCX
 
 ;--------------------------------------------------------------------
