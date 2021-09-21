@@ -211,7 +211,7 @@ xtplus_large:
 
 xt:
 	@$(AS) "$(SRC_ASM)" $(ASFLAGS) $(DEFS_XT) -l"$(TARGET)_xt.lst" -o"$(TARGET)_xt.bin"
-	$(AL) $(BIOS_SIZE) $(TARGET)_xt.bin
+	@perl ../Tools/checksum.pl $(TARGET)_xt.bin $(ROMSIZE)	
 	@echo * Small XT version "$(TARGET)_xt.bin" built.
 
 xt_large:
