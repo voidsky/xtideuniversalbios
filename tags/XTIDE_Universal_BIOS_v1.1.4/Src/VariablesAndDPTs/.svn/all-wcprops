@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/37/tags/XTIDE_Universal_BIOS_v1.1.4/Src/VariablesAndDPTs
+END
+CompatibleDPT.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/37/tags/XTIDE_Universal_BIOS_v1.1.4/Src/VariablesAndDPTs/CompatibleDPT.asm
+END
+FindDPT.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/37/tags/XTIDE_Universal_BIOS_v1.1.4/Src/VariablesAndDPTs/FindDPT.asm
+END
+AccessDPT.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/37/tags/XTIDE_Universal_BIOS_v1.1.4/Src/VariablesAndDPTs/AccessDPT.asm
+END
+CreateDPT.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/37/tags/XTIDE_Universal_BIOS_v1.1.4/Src/VariablesAndDPTs/CreateDPT.asm
+END
+RamVars.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/37/tags/XTIDE_Universal_BIOS_v1.1.4/Src/VariablesAndDPTs/RamVars.asm
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help
+END
+Flash_Checksum.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Flash_Checksum.txt
+END
+Bootmenu_SerialDetect.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Bootmenu_SerialDetect.txt
+END
+Flash_PageSize.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Flash_PageSize.txt
+END
+IDE_EnableInterrupt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/IDE_EnableInterrupt.txt
+END
+Drive_UserLBA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Drive_UserLBA.txt
+END
+Main_License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Main_License.txt
+END
+Bootmenu_DefaultDrive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Bootmenu_DefaultDrive.txt
+END
+Drive_BlockMode.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Drive_BlockMode.txt
+END
+Configuration_StealSize.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Configuration_StealSize.txt
+END
+IDE_SerialBaud.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/IDE_SerialBaud.txt
+END
+Bootmenu_FloppyDrives.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Bootmenu_FloppyDrives.txt
+END
+Configuration_FullMode.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Configuration_FullMode.txt
+END
+Bootmenu_Timeout.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Bootmenu_Timeout.txt
+END
+IDE_SerialCOM.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/IDE_SerialCOM.txt
+END
+Flash_SdpCommand.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Flash_SdpCommand.txt
+END
+IDE_CommandPort.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/IDE_CommandPort.txt
+END
+Drive_UserCHS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Drive_UserCHS.txt
+END
+IDE_SerialPort.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/IDE_SerialPort.txt
+END
+IDE_ControlPort.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/IDE_ControlPort.txt
+END
+Drive_WriteCache.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/Drive_WriteCache.txt
+END
+IDE_IRQ.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Help/IDE_IRQ.txt
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/353/tags/Configurator_for_v2.0.0_beta1/Src
+END
+Menupage.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/353/tags/Configurator_for_v2.0.0_beta1/Src/Menupage.asm
+END
+Dialogs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/353/tags/Configurator_for_v2.0.0_beta1/Src/Dialogs.asm
+END
+Menuitem.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/353/tags/Configurator_for_v2.0.0_beta1/Src/Menuitem.asm
+END
+Main.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/353/tags/Configurator_for_v2.0.0_beta1/Src/Main.asm
+END
+EEPROM.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/353/tags/Configurator_for_v2.0.0_beta1/Src/EEPROM.asm
+END
+Strings.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/353/tags/Configurator_for_v2.0.0_beta1/Src/Strings.asm
+END
+MenuEvents.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/353/tags/Configurator_for_v2.0.0_beta1/Src/MenuEvents.asm
+END
+BiosFile.asm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/353/tags/Configurator_for_v2.0.0_beta1/Src/BiosFile.asm
+END
+Buffers.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/353/tags/Configurator_for_v2.0.0_beta1/Src/Buffers.asm
+END
+Flash.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/353/tags/Configurator_for_v2.0.0_beta1/Src/Flash.asm
+END
+MenuitemPrint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/353/tags/Configurator_for_v2.0.0_beta1/Src/MenuitemPrint.asm
+END

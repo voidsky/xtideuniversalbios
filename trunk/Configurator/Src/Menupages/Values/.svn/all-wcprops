@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/Configurator/Src/Menupages/Values
+END
+SdpCommandValueMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Configurator/Src/Menupages/Values/SdpCommandValueMenu.asm
+END
+BootLoaderValueMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/Configurator/Src/Menupages/Values/BootLoaderValueMenu.asm
+END
+BusTypeValueMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/Configurator/Src/Menupages/Values/BusTypeValueMenu.asm
+END

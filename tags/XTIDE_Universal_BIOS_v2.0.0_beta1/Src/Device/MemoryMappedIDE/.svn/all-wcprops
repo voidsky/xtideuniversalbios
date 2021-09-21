@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Src/Device/MemoryMappedIDE
+END
+MemIdeTransfer.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Src/Device/MemoryMappedIDE/MemIdeTransfer.asm
+END
+MemMappedIDE.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Src/Device/MemoryMappedIDE/MemMappedIDE.inc
+END

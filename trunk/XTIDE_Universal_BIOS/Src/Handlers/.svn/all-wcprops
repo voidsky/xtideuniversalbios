@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/588/trunk/XTIDE_Universal_BIOS/Src/Handlers
+END
+Int13h.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/568/trunk/XTIDE_Universal_BIOS/Src/Handlers/Int13h.asm
+END
+Int13hBiosInit.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/566/trunk/XTIDE_Universal_BIOS/Src/Handlers/Int13hBiosInit.asm
+END
+Int19h.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/567/trunk/XTIDE_Universal_BIOS/Src/Handlers/Int19h.asm
+END

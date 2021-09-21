@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/588/trunk/XTIDE_Universal_BIOS/Src/VariablesAndDPTs
+END
+CompatibleDPT.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/568/trunk/XTIDE_Universal_BIOS/Src/VariablesAndDPTs/CompatibleDPT.asm
+END
+FindDPT.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/567/trunk/XTIDE_Universal_BIOS/Src/VariablesAndDPTs/FindDPT.asm
+END
+AccessDPT.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/588/trunk/XTIDE_Universal_BIOS/Src/VariablesAndDPTs/AccessDPT.asm
+END
+CreateDPT.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/568/trunk/XTIDE_Universal_BIOS/Src/VariablesAndDPTs/CreateDPT.asm
+END
+RamVars.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/567/trunk/XTIDE_Universal_BIOS/Src/VariablesAndDPTs/RamVars.asm
+END
+BootVars.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/547/trunk/XTIDE_Universal_BIOS/Src/VariablesAndDPTs/BootVars.asm
+END
+DrvDetectInfo.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/526/trunk/XTIDE_Universal_BIOS/Src/VariablesAndDPTs/DrvDetectInfo.asm
+END
+AtaGeometry.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/580/trunk/XTIDE_Universal_BIOS/Src/VariablesAndDPTs/AtaGeometry.asm
+END

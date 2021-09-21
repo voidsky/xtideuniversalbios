@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/File
+END
+DosCritical.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/File/DosCritical.asm
+END
+Directory.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/File/Directory.asm
+END
+FileIO.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/File/FileIO.asm
+END
+Drive.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/File/Drive.asm
+END

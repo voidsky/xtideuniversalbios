@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/568/trunk/XTIDE_Universal_BIOS/Src/Handlers/Int19h
+END
+BootSector.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/568/trunk/XTIDE_Universal_BIOS/Src/Handlers/Int19h/BootSector.asm
+END
+Int19hReset.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/526/trunk/XTIDE_Universal_BIOS/Src/Handlers/Int19h/Int19hReset.asm
+END

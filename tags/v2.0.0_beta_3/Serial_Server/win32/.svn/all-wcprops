@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/514/tags/v2.0.0_beta_3/Serial_Server/win32
+END
+Win32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/514/tags/v2.0.0_beta_3/Serial_Server/win32/Win32.cpp
+END
+Win32File.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/514/tags/v2.0.0_beta_3/Serial_Server/win32/Win32File.h
+END
+Win32Serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/514/tags/v2.0.0_beta_3/Serial_Server/win32/Win32Serial.h
+END

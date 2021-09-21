@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src
+END
+Strings.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Strings.asm
+END
+StringsCompressed.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/StringsCompressed.asm
+END
+Main.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Main.asm
+END

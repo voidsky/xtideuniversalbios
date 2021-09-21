@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/293/trunk/Configurator/Src/Libraries/menu
+END
+menumsg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/293/trunk/Configurator/Src/Libraries/menu/menumsg.asm
+END
+menudlg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/Configurator/Src/Libraries/menu/menudlg.asm
+END
+menuprog.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/293/trunk/Configurator/Src/Libraries/menu/menuprog.asm
+END
+menuloop.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/293/trunk/Configurator/Src/Libraries/menu/menuloop.asm
+END
+menucrsr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/Configurator/Src/Libraries/menu/menucrsr.asm
+END
+menudraw.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/293/trunk/Configurator/Src/Libraries/menu/menudraw.asm
+END
+menu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/83/trunk/Configurator/Src/Libraries/menu/menu.asm
+END
+menufile.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/293/trunk/Configurator/Src/Libraries/menu/menufile.asm
+END
+prntvram.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/293/trunk/Configurator/Src/Libraries/menu/prntvram.asm
+END

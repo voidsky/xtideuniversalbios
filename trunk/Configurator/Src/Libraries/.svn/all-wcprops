@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/445/trunk/Configurator/Src/Libraries
+END
+string.asm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/78/trunk/Configurator/Src/Libraries/string.asm
+END
+math.asm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/445/trunk/Configurator/Src/Libraries/math.asm
+END
+prntdos.asm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/Configurator/Src/Libraries/prntdos.asm
+END
+keys.asm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/78/trunk/Configurator/Src/Libraries/keys.asm
+END
+print.asm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/181/trunk/Configurator/Src/Libraries/print.asm
+END
+file.asm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/293/trunk/Configurator/Src/Libraries/file.asm
+END
+prntbios.asm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/78/trunk/Configurator/Src/Libraries/prntbios.asm
+END

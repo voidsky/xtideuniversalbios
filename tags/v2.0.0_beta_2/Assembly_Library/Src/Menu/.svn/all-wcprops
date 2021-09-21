@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu
+END
+MenuAttributes.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/MenuAttributes.asm
+END
+MenuScrollbars.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/MenuScrollbars.asm
+END
+MenuLocation.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/MenuLocation.asm
+END
+MenuLoop.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/MenuLoop.asm
+END
+MenuTime.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/MenuTime.asm
+END
+Menu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/Menu.asm
+END
+CharOutLineSplitter.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/CharOutLineSplitter.asm
+END
+MenuBorders.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/MenuBorders.asm
+END
+MenuEvent.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/MenuEvent.asm
+END
+MenuInit.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/MenuInit.asm
+END
+MenuText.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/MenuText.asm
+END
+MenuCharOut.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/MenuCharOut.asm
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/25/tags/XTIDE_Universal_BIOS_v1.1.1/Src/Libraries
+END
+math.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/25/tags/XTIDE_Universal_BIOS_v1.1.1/Src/Libraries/math.asm
+END
+keys.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/25/tags/XTIDE_Universal_BIOS_v1.1.1/Src/Libraries/keys.asm
+END
+print.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/25/tags/XTIDE_Universal_BIOS_v1.1.1/Src/Libraries/print.asm
+END
+prntbios.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/25/tags/XTIDE_Universal_BIOS_v1.1.1/Src/Libraries/prntbios.asm
+END
+string.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/25/tags/XTIDE_Universal_BIOS_v1.1.1/Src/Libraries/string.asm
+END

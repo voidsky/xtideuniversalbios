@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/Dialog
+END
+DialogDrive.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/Dialog/DialogDrive.asm
+END
+DialogWord.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/Dialog/DialogWord.asm
+END
+ItemLineSplitter.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/Dialog/ItemLineSplitter.asm
+END
+DialogFile.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/Dialog/DialogFile.asm
+END
+Dialog.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/Dialog/Dialog.asm
+END
+StringsForDialogs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/Dialog/StringsForDialogs.asm
+END
+DialogMessage.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/Dialog/DialogMessage.asm
+END
+DialogProgress.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/Dialog/DialogProgress.asm
+END
+DialogSelection.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/Dialog/DialogSelection.asm
+END
+DialogString.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/462/tags/v2.0.0_beta_2/Assembly_Library/Src/Menu/Dialog/DialogString.asm
+END

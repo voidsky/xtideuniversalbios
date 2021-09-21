@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc
+END
+MenuCfg.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/MenuCfg.inc
+END
+Variables.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/Variables.inc
+END
+MenuStructs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/467/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS_Configurator_v2/Inc/MenuStructs.inc
+END

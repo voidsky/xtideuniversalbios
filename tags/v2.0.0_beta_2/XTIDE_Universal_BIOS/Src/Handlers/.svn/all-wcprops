@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Handlers
+END
+Int13h.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Handlers/Int13h.asm
+END
+Int19h.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Handlers/Int19h.asm
+END

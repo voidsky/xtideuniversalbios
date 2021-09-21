@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc
+END
+Int13h.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc/Int13h.inc
+END
+IDE_8bit.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc/IDE_8bit.inc
+END
+BootMenu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc/BootMenu.inc
+END
+RomVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc/RomVars.inc
+END
+IdeRegisters.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc/IdeRegisters.inc
+END
+RamVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc/RamVars.inc
+END
+IntController.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc/IntController.inc
+END
+BootVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc/BootVars.inc
+END
+EBIOS.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc/EBIOS.inc
+END
+DeviceIDE.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc/DeviceIDE.inc
+END
+ATA_ID.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc/ATA_ID.inc
+END
+CustomDPT.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/352/tags/XTIDE_Universal_BIOS_v2.0.0_beta1/Inc/CustomDPT.inc
+END

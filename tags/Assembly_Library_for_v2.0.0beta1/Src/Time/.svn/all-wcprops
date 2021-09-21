@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Time
+END
+Delay.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Time/Delay.asm
+END
+TimerTicks.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Time/TimerTicks.asm
+END
+SystemTimer.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Time/SystemTimer.asm
+END

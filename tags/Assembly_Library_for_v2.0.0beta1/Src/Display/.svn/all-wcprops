@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Display
+END
+Display.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Display/Display.asm
+END
+DisplayContext.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Display/DisplayContext.asm
+END
+DisplayCharOut.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Display/DisplayCharOut.asm
+END
+DisplayFormat.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Display/DisplayFormat.asm
+END
+CgaSnow.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Display/CgaSnow.asm
+END
+DisplayPrint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Display/DisplayPrint.asm
+END
+DisplayPage.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Display/DisplayPage.asm
+END
+DisplayCursor.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Display/DisplayCursor.asm
+END
+DisplayFormatCompressed.asm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Display/DisplayFormatCompressed.asm
+END

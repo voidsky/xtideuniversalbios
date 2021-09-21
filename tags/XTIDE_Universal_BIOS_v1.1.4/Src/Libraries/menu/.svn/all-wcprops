@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37/tags/XTIDE_Universal_BIOS_v1.1.4/Src/Libraries/menu
+END
+menuloop.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/37/tags/XTIDE_Universal_BIOS_v1.1.4/Src/Libraries/menu/menuloop.asm
+END
+menucrsr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/37/tags/XTIDE_Universal_BIOS_v1.1.4/Src/Libraries/menu/menucrsr.asm
+END
+menudraw.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/37/tags/XTIDE_Universal_BIOS_v1.1.4/Src/Libraries/menu/menudraw.asm
+END
+menu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/37/tags/XTIDE_Universal_BIOS_v1.1.4/Src/Libraries/menu/menu.asm
+END

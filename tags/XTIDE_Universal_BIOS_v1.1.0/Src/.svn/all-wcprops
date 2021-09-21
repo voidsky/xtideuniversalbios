@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Src
+END
+Main.asm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Src/Main.asm
+END
+Strings.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Src/Strings.asm
+END
+SoftDelay.asm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Src/SoftDelay.asm
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/568/trunk/XTIDE_Universal_BIOS/Src/Handlers/Int13h/Tools
+END
+Address.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/568/trunk/XTIDE_Universal_BIOS/Src/Handlers/Int13h/Tools/Address.asm
+END
+Prepare.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/568/trunk/XTIDE_Universal_BIOS/Src/Handlers/Int13h/Tools/Prepare.asm
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Src/Device
+END
+Idepack.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Src/Device/Idepack.asm
+END
+Timer.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Src/Device/Timer.asm
+END
+Device.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Src/Device/Device.asm
+END

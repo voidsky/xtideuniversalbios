@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/567/trunk/XTIDE_Universal_BIOS/Src/Device/Serial
+END
+SerialCommand.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/567/trunk/XTIDE_Universal_BIOS/Src/Device/Serial/SerialCommand.asm
+END
+SerialDPT.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/567/trunk/XTIDE_Universal_BIOS/Src/Device/Serial/SerialDPT.asm
+END

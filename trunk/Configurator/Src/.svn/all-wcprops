@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/445/trunk/Configurator/Src
+END
+Flash.asm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/293/trunk/Configurator/Src/Flash.asm
+END
+MenuPageItem.asm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/293/trunk/Configurator/Src/MenuPageItem.asm
+END
+MenuPage.asm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/293/trunk/Configurator/Src/MenuPage.asm
+END
+Main.asm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/Configurator/Src/Main.asm
+END
+MenuEvent.asm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/Configurator/Src/MenuEvent.asm
+END
+EEPROM.asm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/293/trunk/Configurator/Src/EEPROM.asm
+END
+Strings.asm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/293/trunk/Configurator/Src/Strings.asm
+END
+MenuPageItemFormat.asm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/293/trunk/Configurator/Src/MenuPageItemFormat.asm
+END
+FormatTitle.asm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/Configurator/Src/FormatTitle.asm
+END
+MenuEventHotkey.asm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/Configurator/Src/MenuEventHotkey.asm
+END
+BiosFile.asm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/181/trunk/Configurator/Src/BiosFile.asm
+END

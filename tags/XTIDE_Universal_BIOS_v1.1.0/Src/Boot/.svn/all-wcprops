@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Src/Boot
+END
+BootMenuPrint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Src/Boot/BootMenuPrint.asm
+END
+BootMenuPrintCfg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Src/Boot/BootMenuPrintCfg.asm
+END
+BootMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Src/Boot/BootMenu.asm
+END
+BootMenuEvent.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Src/Boot/BootMenuEvent.asm
+END
+BootVars.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Src/Boot/BootVars.asm
+END
+BootInfo.asm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Src/Boot/BootInfo.asm
+END
+BootPrint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Src/Boot/BootPrint.asm
+END

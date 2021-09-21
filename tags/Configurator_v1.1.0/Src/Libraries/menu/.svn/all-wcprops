@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/tags/Configurator_v1.1.0/Src/Libraries/menu
+END
+menudraw.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/tags/Configurator_v1.1.0/Src/Libraries/menu/menudraw.asm
+END
+menu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/tags/Configurator_v1.1.0/Src/Libraries/menu/menu.asm
+END
+menufile.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/tags/Configurator_v1.1.0/Src/Libraries/menu/menufile.asm
+END
+prntvram.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/tags/Configurator_v1.1.0/Src/Libraries/menu/prntvram.asm
+END
+menumsg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/tags/Configurator_v1.1.0/Src/Libraries/menu/menumsg.asm
+END
+menudlg.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/tags/Configurator_v1.1.0/Src/Libraries/menu/menudlg.asm
+END
+menuprog.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/tags/Configurator_v1.1.0/Src/Libraries/menu/menuprog.asm
+END
+menuloop.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/tags/Configurator_v1.1.0/Src/Libraries/menu/menuloop.asm
+END
+menucrsr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/tags/Configurator_v1.1.0/Src/Libraries/menu/menucrsr.asm
+END

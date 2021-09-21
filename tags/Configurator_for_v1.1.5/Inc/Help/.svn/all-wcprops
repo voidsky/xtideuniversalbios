@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help
+END
+Bootmenu_SwapDrives.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/Bootmenu_SwapDrives.txt
+END
+Flash_SdpCommand.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/Flash_SdpCommand.txt
+END
+IDE_CommandPort.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/IDE_CommandPort.txt
+END
+Drive_UserCHS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/Drive_UserCHS.txt
+END
+IDE_ControlPort.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/IDE_ControlPort.txt
+END
+IDE_IRQ.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/IDE_IRQ.txt
+END
+Flash_Checksum.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/Flash_Checksum.txt
+END
+Flash_PageSize.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/Flash_PageSize.txt
+END
+IDE_EnableInterrupt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/IDE_EnableInterrupt.txt
+END
+Bootmenu_DefaultDrive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/Bootmenu_DefaultDrive.txt
+END
+Drive_BlockMode.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/Drive_BlockMode.txt
+END
+Bootmenu_RomBoot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/Bootmenu_RomBoot.txt
+END
+Configuration_StealSize.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/Configuration_StealSize.txt
+END
+Bootmenu_Timeout.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/Bootmenu_Timeout.txt
+END
+Configuration_FullMode.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/Configuration_FullMode.txt
+END
+Bootmenu_FloppyDrives.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Inc/Help/Bootmenu_FloppyDrives.txt
+END

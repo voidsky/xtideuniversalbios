@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Serial
+END
+SerialServer.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Serial/SerialServer.asm
+END
+SerialServerScan.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Src/Serial/SerialServerScan.asm
+END

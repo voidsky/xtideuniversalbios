@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/586/trunk/Assembly_Library/Inc
+END
+MenuEvents.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/505/trunk/Assembly_Library/Inc/MenuEvents.inc
+END
+Math.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/445/trunk/Assembly_Library/Inc/Math.inc
+END
+Emulate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/586/trunk/Assembly_Library/Inc/Emulate.inc
+END
+Delay.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/568/trunk/Assembly_Library/Inc/Delay.inc
+END
+Dialog.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/54/trunk/Assembly_Library/Inc/Dialog.inc
+END
+CgaSnow.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/52/trunk/Assembly_Library/Inc/CgaSnow.inc
+END
+AssemblyLibrary.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/256/trunk/Assembly_Library/Inc/AssemblyLibrary.inc
+END
+Menu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/525/trunk/Assembly_Library/Inc/Menu.inc
+END
+Display.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/505/trunk/Assembly_Library/Inc/Display.inc
+END
+SerialServer.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/334/trunk/Assembly_Library/Inc/SerialServer.inc
+END
+Registers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/537/trunk/Assembly_Library/Inc/Registers.inc
+END
+DosFunctions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/446/trunk/Assembly_Library/Inc/DosFunctions.inc
+END
+File.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/66/trunk/Assembly_Library/Inc/File.inc
+END
+Serial.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/277/trunk/Assembly_Library/Inc/Serial.inc
+END
+Macros.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/566/trunk/Assembly_Library/Inc/Macros.inc
+END
+SystemTimer.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/287/trunk/Assembly_Library/Inc/SystemTimer.inc
+END
+BiosFunctions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/510/trunk/Assembly_Library/Inc/BiosFunctions.inc
+END
+BiosData.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/583/trunk/Assembly_Library/Inc/BiosData.inc
+END
+Debug.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/142/trunk/Assembly_Library/Inc/Debug.inc
+END

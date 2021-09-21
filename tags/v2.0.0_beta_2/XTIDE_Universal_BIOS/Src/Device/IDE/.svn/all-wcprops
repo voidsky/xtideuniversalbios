@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Device/IDE
+END
+IdeIO.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Device/IDE/IdeIO.asm
+END
+IdeDPT.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Device/IDE/IdeDPT.asm
+END
+IdeError.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Device/IDE/IdeError.asm
+END
+IdeIrq.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Device/IDE/IdeIrq.asm
+END
+IdeCommand.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Device/IDE/IdeCommand.asm
+END
+JrIdeTransfer.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Device/IDE/JrIdeTransfer.asm
+END
+IdeWait.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Device/IDE/IdeWait.asm
+END
+IdeTransfer.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/466/tags/v2.0.0_beta_2/XTIDE_Universal_BIOS/Src/Device/IDE/IdeTransfer.asm
+END

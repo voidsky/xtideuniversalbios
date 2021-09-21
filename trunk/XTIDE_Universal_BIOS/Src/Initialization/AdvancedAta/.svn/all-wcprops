@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/588/trunk/XTIDE_Universal_BIOS/Src/Initialization/AdvancedAta
+END
+PDC20x30.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/588/trunk/XTIDE_Universal_BIOS/Src/Initialization/AdvancedAta/PDC20x30.asm
+END
+AdvAtaInit.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/587/trunk/XTIDE_Universal_BIOS/Src/Initialization/AdvancedAta/AdvAtaInit.asm
+END
+Vision.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/582/trunk/XTIDE_Universal_BIOS/Src/Initialization/AdvancedAta/Vision.asm
+END

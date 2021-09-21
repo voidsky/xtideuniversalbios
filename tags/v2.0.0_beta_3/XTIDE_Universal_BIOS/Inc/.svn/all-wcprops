@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc
+END
+ModuleDependency.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/ModuleDependency.inc
+END
+Version.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/Version.inc
+END
+IDE_8bit.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/IDE_8bit.inc
+END
+HotkeyBar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/HotkeyBar.inc
+END
+BootMenu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/BootMenu.inc
+END
+RomVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/RomVars.inc
+END
+IdeRegisters.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/IdeRegisters.inc
+END
+IdeIO.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/IdeIO.inc
+END
+IntController.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/IntController.inc
+END
+BootVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/BootVars.inc
+END
+EBIOS.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/EBIOS.inc
+END
+DmaController.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/DmaController.inc
+END
+Int13h.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/Int13h.inc
+END
+RamVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/RamVars.inc
+END
+ATA_ID.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/ATA_ID.inc
+END
+DeviceIDE.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/DeviceIDE.inc
+END
+CustomDPT.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Inc/CustomDPT.inc
+END

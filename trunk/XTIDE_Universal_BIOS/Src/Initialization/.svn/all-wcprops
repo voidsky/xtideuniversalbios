@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/588/trunk/XTIDE_Universal_BIOS/Src/Initialization
+END
+Interrupts.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/580/trunk/XTIDE_Universal_BIOS/Src/Initialization/Interrupts.asm
+END
+Initialize.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/580/trunk/XTIDE_Universal_BIOS/Src/Initialization/Initialize.asm
+END
+AtaID.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/580/trunk/XTIDE_Universal_BIOS/Src/Initialization/AtaID.asm
+END
+FloppyDrive.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/567/trunk/XTIDE_Universal_BIOS/Src/Initialization/FloppyDrive.asm
+END
+DetectDrives.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/580/trunk/XTIDE_Universal_BIOS/Src/Initialization/DetectDrives.asm
+END
+DetectPrint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/568/trunk/XTIDE_Universal_BIOS/Src/Initialization/DetectPrint.asm
+END

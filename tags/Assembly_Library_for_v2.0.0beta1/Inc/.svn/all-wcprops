@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc
+END
+Display.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/Display.inc
+END
+SerialServer.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/SerialServer.inc
+END
+Registers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/Registers.inc
+END
+DosFunctions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/DosFunctions.inc
+END
+File.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/File.inc
+END
+Serial.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/Serial.inc
+END
+Macros.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/Macros.inc
+END
+SystemTimer.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/SystemTimer.inc
+END
+BiosFunctions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/BiosFunctions.inc
+END
+BiosData.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/BiosData.inc
+END
+Debug.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/Debug.inc
+END
+MenuEvents.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/MenuEvents.inc
+END
+Math.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/Math.inc
+END
+Emulate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/Emulate.inc
+END
+Delay.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/Delay.inc
+END
+Dialog.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/Dialog.inc
+END
+CgaSnow.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/CgaSnow.inc
+END
+AssemblyLibrary.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/AssemblyLibrary.inc
+END
+Menu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/348/tags/Assembly_Library_for_v2.0.0beta1/Inc/Menu.inc
+END

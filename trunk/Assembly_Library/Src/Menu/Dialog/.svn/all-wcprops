@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/583/trunk/Assembly_Library/Src/Menu/Dialog
+END
+DialogSelection.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/526/trunk/Assembly_Library/Src/Menu/Dialog/DialogSelection.asm
+END
+DialogString.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/568/trunk/Assembly_Library/Src/Menu/Dialog/DialogString.asm
+END
+DialogDrive.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/526/trunk/Assembly_Library/Src/Menu/Dialog/DialogDrive.asm
+END
+DialogWord.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/568/trunk/Assembly_Library/Src/Menu/Dialog/DialogWord.asm
+END
+ItemLineSplitter.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/526/trunk/Assembly_Library/Src/Menu/Dialog/ItemLineSplitter.asm
+END
+DialogFile.asm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/568/trunk/Assembly_Library/Src/Menu/Dialog/DialogFile.asm
+END
+Dialog.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/583/trunk/Assembly_Library/Src/Menu/Dialog/Dialog.asm
+END
+StringsForDialogs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/526/trunk/Assembly_Library/Src/Menu/Dialog/StringsForDialogs.asm
+END
+DialogMessage.asm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/526/trunk/Assembly_Library/Src/Menu/Dialog/DialogMessage.asm
+END
+DialogProgress.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/526/trunk/Assembly_Library/Src/Menu/Dialog/DialogProgress.asm
+END

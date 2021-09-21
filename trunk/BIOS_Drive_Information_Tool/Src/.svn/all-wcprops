@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/567/trunk/BIOS_Drive_Information_Tool/Src
+END
+Main.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/558/trunk/BIOS_Drive_Information_Tool/Src/Main.asm
+END
+Strings.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/526/trunk/BIOS_Drive_Information_Tool/Src/Strings.asm
+END
+Print.asm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/567/trunk/BIOS_Drive_Information_Tool/Src/Print.asm
+END
+Bios.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/566/trunk/BIOS_Drive_Information_Tool/Src/Bios.asm
+END
+AtaInfo.asm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/558/trunk/BIOS_Drive_Information_Tool/Src/AtaInfo.asm
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/588/trunk/XTIDE_Universal_BIOS/Inc
+END
+RamVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/555/trunk/XTIDE_Universal_BIOS/Inc/RamVars.inc
+END
+ATA_ID.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/567/trunk/XTIDE_Universal_BIOS/Inc/ATA_ID.inc
+END
+DeviceIDE.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/567/trunk/XTIDE_Universal_BIOS/Inc/DeviceIDE.inc
+END
+CustomDPT.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/584/trunk/XTIDE_Universal_BIOS/Inc/CustomDPT.inc
+END
+ModuleDependency.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/587/trunk/XTIDE_Universal_BIOS/Inc/ModuleDependency.inc
+END
+Version.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/584/trunk/XTIDE_Universal_BIOS/Inc/Version.inc
+END
+IDE_8bit.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/526/trunk/XTIDE_Universal_BIOS/Inc/IDE_8bit.inc
+END
+CompatibleDPT.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/541/trunk/XTIDE_Universal_BIOS/Inc/CompatibleDPT.inc
+END
+HotkeyBar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/528/trunk/XTIDE_Universal_BIOS/Inc/HotkeyBar.inc
+END
+BootMenu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/583/trunk/XTIDE_Universal_BIOS/Inc/BootMenu.inc
+END
+RomVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/588/trunk/XTIDE_Universal_BIOS/Inc/RomVars.inc
+END
+IdeRegisters.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/541/trunk/XTIDE_Universal_BIOS/Inc/IdeRegisters.inc
+END
+IdeIO.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/526/trunk/XTIDE_Universal_BIOS/Inc/IdeIO.inc
+END
+IntController.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/526/trunk/XTIDE_Universal_BIOS/Inc/IntController.inc
+END
+BootVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/545/trunk/XTIDE_Universal_BIOS/Inc/BootVars.inc
+END
+EBIOS.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/542/trunk/XTIDE_Universal_BIOS/Inc/EBIOS.inc
+END
+DmaController.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/526/trunk/XTIDE_Universal_BIOS/Inc/DmaController.inc
+END
+Int13h.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/539/trunk/XTIDE_Universal_BIOS/Inc/Int13h.inc
+END

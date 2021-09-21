@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc
+END
+Interrupts.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/Interrupts.inc
+END
+BootVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/BootVars.inc
+END
+ATA_ID.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/ATA_ID.inc
+END
+CustomDPT.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/CustomDPT.inc
+END
+Int13h.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/Int13h.inc
+END
+BiosData.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/BiosData.inc
+END
+IDE_8bit.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/IDE_8bit.inc
+END
+CompatibleDPT.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/CompatibleDPT.inc
+END
+BootMenu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/BootMenu.inc
+END
+RomVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/RomVars.inc
+END
+IdeRegisters.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/IdeRegisters.inc
+END
+RamVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/RamVars.inc
+END
+emulate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/tags/XTIDE_Universal_BIOS_v1.1.0/Inc/emulate.inc
+END

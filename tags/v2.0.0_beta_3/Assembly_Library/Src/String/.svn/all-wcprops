@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/512/tags/v2.0.0_beta_3/Assembly_Library/Src/String
+END
+StringProcess.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/512/tags/v2.0.0_beta_3/Assembly_Library/Src/String/StringProcess.asm
+END
+String.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/512/tags/v2.0.0_beta_3/Assembly_Library/Src/String/String.asm
+END
+Char.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/512/tags/v2.0.0_beta_3/Assembly_Library/Src/String/Char.asm
+END

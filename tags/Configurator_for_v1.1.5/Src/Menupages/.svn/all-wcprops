@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Src/Menupages
+END
+BootMenuSettingsMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Src/Menupages/BootMenuSettingsMenu.asm
+END
+FlashMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Src/Menupages/FlashMenu.asm
+END
+MainMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Src/Menupages/MainMenu.asm
+END
+IdeControllerMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Src/Menupages/IdeControllerMenu.asm
+END
+MasterSlaveMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Src/Menupages/MasterSlaveMenu.asm
+END
+ConfigurationMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/72/tags/Configurator_for_v1.1.5/Src/Menupages/ConfigurationMenu.asm
+END

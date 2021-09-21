@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/293/trunk/Configurator/Inc
+END
+BiosData.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/116/trunk/Configurator/Inc/BiosData.inc
+END
+Variables.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/Configurator/Inc/Variables.inc
+END
+RomVars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/Configurator/Inc/RomVars.inc
+END
+emulate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/293/trunk/Configurator/Inc/emulate.inc
+END
+MenuPage.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/Configurator/Inc/MenuPage.inc
+END
