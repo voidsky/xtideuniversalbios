@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/515/tags/v2.0.0_beta_3/Tools
+END
+checksum.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/515/tags/v2.0.0_beta_3/Tools/checksum.pl
+END
+unused.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/515/tags/v2.0.0_beta_3/Tools/unused.pl
+END
+StringsCompress.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/515/tags/v2.0.0_beta_3/Tools/StringsCompress.pl
+END

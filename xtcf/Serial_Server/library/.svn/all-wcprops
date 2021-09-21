@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/514/tags/v2.0.0_beta_3/Serial_Server/library
+END
+FlatImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/514/tags/v2.0.0_beta_3/Serial_Server/library/FlatImage.h
+END
+Process.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/514/tags/v2.0.0_beta_3/Serial_Server/library/Process.cpp
+END
+Serial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/514/tags/v2.0.0_beta_3/Serial_Server/library/Serial.cpp
+END
+Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/514/tags/v2.0.0_beta_3/Serial_Server/library/Image.cpp
+END
+Checksum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/514/tags/v2.0.0_beta_3/Serial_Server/library/Checksum.cpp
+END
+File.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/514/tags/v2.0.0_beta_3/Serial_Server/library/File.h
+END
+Library.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/514/tags/v2.0.0_beta_3/Serial_Server/library/Library.h
+END

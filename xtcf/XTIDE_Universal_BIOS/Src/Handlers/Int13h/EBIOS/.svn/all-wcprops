@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Src/Handlers/Int13h/EBIOS
+END
+AH48h_GetExtendedDriveParameters.asm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Src/Handlers/Int13h/EBIOS/AH48h_GetExtendedDriveParameters.asm
+END
+AH44h_ExtendedVerifySectors.asm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Src/Handlers/Int13h/EBIOS/AH44h_ExtendedVerifySectors.asm
+END
+AH41h_CheckIfExtensionsPresent.asm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Src/Handlers/Int13h/EBIOS/AH41h_CheckIfExtensionsPresent.asm
+END
+AH47h_ExtendedSeek.asm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Src/Handlers/Int13h/EBIOS/AH47h_ExtendedSeek.asm
+END
+AH42h_ExtendedReadSectors.asm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Src/Handlers/Int13h/EBIOS/AH42h_ExtendedReadSectors.asm
+END
+AH43h_ExtendedWriteSectors.asm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/516/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS/Src/Handlers/Int13h/EBIOS/AH43h_ExtendedWriteSectors.asm
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/517/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS_Configurator_v2/Src/Menupages
+END
+MainMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/517/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS_Configurator_v2/Src/Menupages/MainMenu.asm
+END
+IdeControllerMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/517/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS_Configurator_v2/Src/Menupages/IdeControllerMenu.asm
+END
+MasterSlaveMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/517/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS_Configurator_v2/Src/Menupages/MasterSlaveMenu.asm
+END
+ConfigurationMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/517/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS_Configurator_v2/Src/Menupages/ConfigurationMenu.asm
+END
+BootMenuSettingsMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/517/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS_Configurator_v2/Src/Menupages/BootMenuSettingsMenu.asm
+END
+FlashMenu.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/517/tags/v2.0.0_beta_3/XTIDE_Universal_BIOS_Configurator_v2/Src/Menupages/FlashMenu.asm
+END
